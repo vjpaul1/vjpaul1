@@ -8,7 +8,7 @@ I'm Vytenis Jonas passionate Data Analytics student currently learning at Turing
 
 <br>💻 I'm a former sales person, currently digging deep in to Data World.<br>
 
-<br>⏳ Exploring SQL<br>
+<br>⏳ Exploring SQ, Python, Big Query<br>
 
 <br>🚀 Always ready to collaborate for Data Experiments<br>
 
