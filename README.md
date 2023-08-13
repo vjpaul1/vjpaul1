@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**Title**
+
+I'm Vytenis Jonas
+
+**Subtitle**
+
+I'm a passionate Data Analytics student currently studying at Turing College.
+
 <!--
 **vjpaul1/vjpaul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
