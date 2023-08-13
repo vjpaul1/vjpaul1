@@ -8,7 +8,7 @@ I'm Vytenis Jonas
 
 I'm a passionate Data Analytics student currently studying at Turing College.
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/bTrTnPMPq8UORCrBWG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bTrTnPMPq8UORCrBWG">via GIPHY</a></p>
+https://giphy.com/embed/bTrTnPMPq8UORCrBWG
 <!--
 **vjpaul1/vjpaul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
