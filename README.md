@@ -2,7 +2,7 @@
 
 **Title**
 
-I'm Vytenis Jonas passionate Data Analytics student currently studying at Turing College.
+I'm Vytenis Jonas passionate Data Analytics student currently learning at Turing College.
 
 <br>👨🏻‍💻 About Me:<br>
 
