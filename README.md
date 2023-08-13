@@ -2,13 +2,18 @@
 
 **Title**
 
-I'm Vytenis Jonas
+I'm Vytenis Jonas passionate Data Analytics student currently studying at Turing College.
 
-**Subtitle**
+👨🏻‍💻 About Me:
 
-I'm a passionate Data Analytics student currently studying at Turing College.
+💻 I'm a former sales person, currently digging deep in to Data World.
+⏳ Exploring SQL
+🚀 Always ready to collaborate for Data Experiments
+👨‍💻 Former Tech Sales person
+🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+🏆 Love and enjoy tennis since childhood
+⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
 
-https://giphy.com/embed/bTrTnPMPq8UORCrBWG
 <!--
 **vjpaul1/vjpaul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
