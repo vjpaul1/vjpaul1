@@ -7,11 +7,17 @@ I'm Vytenis Jonas passionate Data Analytics student currently studying at Turing
 <br>👨🏻‍💻 About Me:<br>
 
 <br>💻 I'm a former sales person, currently digging deep in to Data World.<br>
+
 <br>⏳ Exploring SQL<br>
+
 <br>🚀 Always ready to collaborate for Data Experiments<br>
+
 <br>👨‍💻 Former Tech Sales person<br>
+
 <br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>
+
 <br>🏆 Love and enjoy tennis since childhood<br>
+
 <br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <!--
