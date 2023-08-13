@@ -4,15 +4,15 @@
 
 I'm Vytenis Jonas passionate Data Analytics student currently studying at Turing College.
 
-👨🏻‍💻 About Me:
+<br>👨🏻‍💻 About Me:<br>
 
-💻 I'm a former sales person, currently digging deep in to Data World.
-⏳ Exploring SQL
-🚀 Always ready to collaborate for Data Experiments
-👨‍💻 Former Tech Sales person
-🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-🏆 Love and enjoy tennis since childhood
-⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+<br>💻 I'm a former sales person, currently digging deep in to Data World.<br>
+<br>⏳ Exploring SQL<br>
+<br>🚀 Always ready to collaborate for Data Experiments<br>
+<br>👨‍💻 Former Tech Sales person<br>
+<br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>
+<br>🏆 Love and enjoy tennis since childhood<br>
+<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <!--
 **vjpaul1/vjpaul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
